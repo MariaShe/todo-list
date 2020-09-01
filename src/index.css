@@ -5,9 +5,22 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: cornsilk;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.rm {
+  background: red;
+  border-radius: 50%;
+  color: #fff;
+  border: none;
+  outline: none;
+}
+
+.done {
+  text-decoration: line-through;
 }
